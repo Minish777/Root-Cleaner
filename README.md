@@ -21,7 +21,7 @@
 
 ### 🛠️ Инструкция
 1. `git clone https://github.com/Minish777/Root-Cleaner.git`
-2. `cd root_cleaner`
+2. `cd Root-Cleaner`
 3. `chmod +x cleaner.py`
 4. `./cleaner.py`
 
@@ -39,7 +39,7 @@
 
 ### 🛠️ Quick Start
 1. `git clone https://github.com/Minish777/Root-Cleaner.git`
-2. `cd root_cleaner`
+2. `cd Root-Cleaner`
 3. `chmod +x cleaner.py`
 4. `./cleaner.py`
 
