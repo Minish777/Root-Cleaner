@@ -20,7 +20,7 @@
 - **Zero Dependencies**: Работает «из коробки» на любом дистрибутиве с Python 3.
 
 ### 🛠️ Инструкция
-1. `git clone https://github.com/ВАШ_НИК/root_cleaner.git`
+1. `git clone https://github.com/Minish777/Root-Cleaner.git`
 2. `cd root_cleaner`
 3. `chmod +x cleaner.py`
 4. `./cleaner.py`
@@ -38,7 +38,7 @@
 - **Zero Dependencies**: Runs "out of the box" on any Linux distribution with Python 3.
 
 ### 🛠️ Quick Start
-1. `git clone https://github.com/YOUR_NICK/root_cleaner.git`
+1. `git clone https://github.com/Minish777/Root-Cleaner.git`
 2. `cd root_cleaner`
 3. `chmod +x cleaner.py`
 4. `./cleaner.py`
